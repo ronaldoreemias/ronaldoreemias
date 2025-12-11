@@ -21,14 +21,12 @@
   <!-- Backend & Ferramentas -->
   <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI">
   <img align="center" alt="JSP/Tomcat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" title="Tomcat">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   
 </div>
 
 ### 🎯 Especialidades
 
-- **🤖 Automação & Web Scraping**: Selenium, Playwright, BeautifulSoup
 - **🌐 Desenvolvimento Web**: APIs REST, Frontend, Full Stack
-- **🐳 DevOps**: Docker, CI/CD, Containerização
+
 
 ⭐️ *"Automatizando processos e transformando dados em insights"*
